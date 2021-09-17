@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I hate programming... 👽👽👽**
 
-
+<p align="left"> <a href="https://github.com/shanelkapramuditha" target="blank"><img src="https://img.shields.io/github/followers/shanelkapramuditha?label=Follow&style=social" alt="shanelkapramu" /></a> </p>
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=shanelkapramu" target="blank"><img src="https://img.shields.io/twitter/follow/shanelkapramu?label=follow&style=social" alt="shanelkapramu" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanelkapramuditha&theme=dark&show_icons=true&&count_private=truelocale=en" alt="shanelkapramuditha" /></p>
