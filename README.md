@@ -23,11 +23,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanelkapramuditha&theme=dark&show_icons=true&&count_private=truelocale=en" alt="shanelkapramuditha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanelkapramuditha&" alt="shanelkapramuditha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shanelkapramuditha&theme=dark" alt="shanelkapramuditha" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanelkapramuditha&theme=darkhub" alt="shanelkapramuditha" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelkapramuditha&layout=compact&theme=darkhub" alt="shanelkapramuditha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelkapramuditha&theme=tokyonight" alt="shanelkapramuditha" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
