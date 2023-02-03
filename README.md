@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **💻**
 
-- 📫 How to reach me [shanelkapramuditha.netlify.app](shanelkapramuditha.netlify.app)
+- 📫 How to reach me [shanelkapramuditha.netlify.app](https://shanelkapramuditha.netlify.app)
 
 - ⚡ Fun fact **I hate programming... 👽👽👽**
 
