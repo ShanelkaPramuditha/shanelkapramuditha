@@ -1,11 +1,10 @@
-# Welcome there... 😃😍😎 Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/name.svg" alt="Marton Lederer" /> </h1>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/name.svg" alt="Marton Lederer" />
-</h1>
+<h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Welcome there... 😃😍😎  </h1>
+<h1 align="center"> I'm Shanelka </h1>
+<h3 align="center"> From Sri Lanka </h3>
 
-<h1 align="center">Hi 👋, I'm Shanelka</h1>
-<h3 align="center">From Sri Lanka</h3>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/line1.svg" alt="Marton Lederer" /> </h1>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=shanelkapramuditha" alt="shanelkapramuditha" /> </p>
 
