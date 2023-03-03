@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=shanelkapramuditha" alt="shanelkapramuditha" /> </p>
 
-![](https://komarev.com/ghpvc/?username=ShanelkaPramuditha)
+![Viewers Badge](https://komarev.com/ghpvc/?username=ShanelkaPramuditha&color=blue&style=for-the-badge&label=Profile+Views)
 
 - 🌱 I’m currently learning **python**
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/shanelkapramuditha?tab=repositories)
