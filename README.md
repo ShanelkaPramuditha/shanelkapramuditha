@@ -3,7 +3,10 @@
 <h2 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" height="60px"> </h1>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Welcome+To+My+GITHUB+Profile;I'm+Shanelka;From+Sri+Lanka" > </h1>
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile" > </h1>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=170&vCenter=true&lines=I'm+Shanelka;From+Sri+Lanka" > </h1>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/flag.gif" > </h1>
 
