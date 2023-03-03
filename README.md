@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" height="60px"> Welcome To My GITHUB Profile... 😃😍😎  </h1>
 <h1 align="center"> I'm Shanelka </h1>
-<h3 align="center"> From Sri Lanka <img src="" width="35px" height="35px"> </h3>
+<h3 align="center"> From Sri Lanka <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/flag.gif" width="35px" height="35px"> </h3>
 
 <h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d3Zm5iZW9qdXU1b2k0czlnbXBqdm03bjYyNHI4d3hsd3ZjbWR2NiZjdD1z/x1Dnq2plY1xBDcHvFv/giphy.gif" width="150px" height="150px"> </h1>
 
