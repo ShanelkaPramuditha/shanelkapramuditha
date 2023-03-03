@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/name.svg" alt="Marton Lederer" /> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/name1.svg" alt="Marton Lederer" /> </h1>
 
 <h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Welcome there... 😃😍😎  </h1>
 <h1 align="center"> I'm Shanelka </h1>
