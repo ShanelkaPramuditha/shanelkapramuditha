@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=shanelkapramuditha" alt="shanelkapramuditha" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanelkapramuditha&label=Profile%20views&color=0e75b6&style=flat" alt="shanelkapramuditha" /> </p>
-
 ![](https://komarev.com/ghpvc/?username=ShanelkaPramuditha)
 
 - 🌱 I’m currently learning **python**
