@@ -4,7 +4,7 @@
 <h1 align="center"> I'm Shanelka </h1>
 <h3 align="center"> From Sri Lanka </h3>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/line.svg"/> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/line1.svg"/> </h1>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=shanelkapramuditha" alt="shanelkapramuditha" /> </p>
 
