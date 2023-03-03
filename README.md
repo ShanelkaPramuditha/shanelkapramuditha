@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="" alt="SHANELKA PRAMUDITHA" /> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/profile_name.svg" alt="SHANELKA PRAMUDITHA" /> </h1>
 
 <h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Welcome there... 😃😍😎  </h1>
 <h1 align="center"> I'm Shanelka </h1>
