@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Profile Readme Stats (waka2)
 
 on:
   workflow_dispatch:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          SECTION_NAME: wakaMine
+          SECTION_NAME: waka2
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ->

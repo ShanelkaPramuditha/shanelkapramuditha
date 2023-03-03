@@ -1,4 +1,4 @@
-name: Profile Readme Stats (waka)
+name: Profile Readme Stats (waka1)
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           #LOCALE: 
-          SECTION_NAME: "waka"
+          SECTION_NAME: waka1
           #COMMIT_BY_ME: "True"
           #COMMIT_MESSAGE: "Updated by Shanelka Pramuditha"
           #COMMIT_USERNAMECOMMIT_USERNAME: 
