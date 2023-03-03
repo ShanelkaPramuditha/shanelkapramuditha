@@ -30,7 +30,7 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_MONTHLY: "True"
+          TIME_RANGE: "last_30_days"
           SHOW_TIME: "True"
           SHOW_TOTAL: "True"
           SHOW_MASKED_TIME: "True"
