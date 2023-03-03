@@ -12,6 +12,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanelkapramuditha&label=Profile%20views&color=0e75b6&style=flat" alt="shanelkapramuditha" /> </p>
 
+![](https://komarev.com/ghpvc/?username=ShanelkaPramuditha)
+
 - 🌱 I’m currently learning **python**
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/shanelkapramuditha?tab=repositories)
 - 💬 Ask me about **💻**
