@@ -120,11 +120,11 @@ Shell                    1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka2-->
 
 ```text
-From: 16 September 2021 - To: 04 May 2023
+From: 16 September 2021 - To: 05 May 2023
 
-Total Time: 232 hrs 22 mins
+Total Time: 232 hrs 41 mins
 
-Other          208 hrs 6 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.55 %
+Other          208 hrs 24 mins >>>>>>>>>>>>>>>>>>>>>>---   89.57 %
 ```
 
 <!--END_SECTION:waka2-->
