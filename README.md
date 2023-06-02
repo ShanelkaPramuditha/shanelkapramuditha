@@ -124,11 +124,11 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka2-->
 
 ```text
-From: 16 September 2021 - To: 01 June 2023
+From: 16 September 2021 - To: 02 June 2023
 
-Total Time: 263 hrs 36 mins
+Total Time: 266 hrs 20 mins
 
-Other          214 hrs 11 mins >>>>>>>>>>>>>>>>>>>>-----   81.25 %
+Other          214 hrs 11 mins >>>>>>>>>>>>>>>>>>>>-----   80.42 %
 ```
 
 <!--END_SECTION:waka2-->
