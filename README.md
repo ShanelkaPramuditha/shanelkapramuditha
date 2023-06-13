@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=shanelkapramuditha" alt="shanelkapramuditha" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python**, **js**, **c**, **c++**, **php**, and blah blah blah...
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/shanelkapramuditha?tab=repositories)
 - 💬 Ask me about **💻**
 - 📫 How to reach me [www.shanelkapramuditha.com](https://www.shanelkapramuditha.com)
