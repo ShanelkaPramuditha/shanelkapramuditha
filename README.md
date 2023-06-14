@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **python**, **js**, **c**, **c++**, **php**, and blah blah blah...
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/shanelkapramuditha?tab=repositories)
 - 💬 Ask me about **💻**
-- 📫 How to reach me [www.shanelkapramuditha.com](https://www.shanelkapramuditha.com)
+- 📫 How to reach me [www.shanelka.com](https://www.shanelka.com)
 - ⚡ Fun fact **I hate programming... 👽👽👽**
 
 <p align="left"> <a href="https://github.com/shanelkapramuditha" target="blank"><img src="https://img.shields.io/github/followers/shanelkapramuditha?label=Follow&style=social" alt="shanelkapramu" /></a> </p>
