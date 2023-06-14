@@ -20,7 +20,7 @@
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/shanelkapramuditha?tab=repositories)
 - 💬 Ask me about **💻**
 - 📫 How to reach me [www.shanelka.com](https://www.shanelka.com)
-- ⚡ Fun fact **I hate programming... 👽👽👽**
+- ⚡ Fact **I hate programming... 👽👽👽**
 
 <p align="left"> <a href="https://github.com/shanelkapramuditha" target="blank"><img src="https://img.shields.io/github/followers/shanelkapramuditha?label=Follow&style=social" alt="shanelkapramu" /></a> </p>
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=shanelkapramu" target="blank"><img src="https://img.shields.io/twitter/follow/shanelkapramu?label=follow&style=social" alt="shanelkapramu" /></a> </p>
