@@ -10,7 +10,7 @@
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/flag.gif" > </h1>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d3Zm5iZW9qdXU1b2k0czlnbXBqdm03bjYyNHI4d3hsd3ZjbWR2NiZjdD1z/x1Dnq2plY1xBDcHvFv/giphy.gif" width="150px" height="165px"> </h1>
+<h1 align="center"> <img src="https://i.giphy.com/media/x1Dnq2plY1xBDcHvFv/giphy.webp" width="150px" height="165px"> </h1>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/line_1.svg"/> </h1>
 
