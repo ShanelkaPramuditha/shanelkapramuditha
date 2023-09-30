@@ -8,7 +8,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=170&vCenter=true&lines=I'm+Shanelka;From+Sri+Lanka" > </h1>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/flag.gif" > </h1>
+<h1 align="center"> <img src="[https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/flag.gif](https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/flag.gif)" > </h1>
 
 <h1 align="center"> <img src="https://i.giphy.com/media/x1Dnq2plY1xBDcHvFv/giphy.webp" width="150px" height="165px"> </h1>
 
