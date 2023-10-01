@@ -124,7 +124,7 @@ PHP                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka2-->
 
 ```text
-From: 16 September 2021 - To: 30 September 2023
+From: 16 September 2021 - To: 01 October 2023
 
 Total Time: 402 hrs 24 mins
 
