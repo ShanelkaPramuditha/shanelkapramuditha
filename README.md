@@ -26,11 +26,11 @@
 <p align="left"> <a href="https://github.com/shanelkapramuditha" target="blank"><img src="https://img.shields.io/github/followers/shanelkapramuditha?label=Follow&style=social" alt="shanelkapramu" /></a> </p>
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=shanelkapramu" target="blank"><img src="https://img.shields.io/twitter/follow/shanelkapramu?label=follow&style=social" alt="shanelkapramu" /></a> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanelkapramuditha&theme=dark&show_icons=true&&count_private=truelocale=en" alt="shanelkapramuditha" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shanelkapramuditha&theme=dark&show_icons=true&&count_private=truelocale=en" alt="shanelkapramuditha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shanelkapramuditha&theme=dark" alt="shanelkapramuditha" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shanelkapramuditha&theme=dark" alt="shanelkapramuditha" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanelkapramuditha&theme=darkhub" alt="shanelkapramuditha" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanelkapramuditha&theme=darkhub" alt="shanelkapramuditha" /></a> </p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelkapramuditha&theme=tokyonight" alt="Top Languages">
