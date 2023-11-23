@@ -32,7 +32,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanelkapramuditha&theme=darkhub" alt="shanelkapramuditha" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelkapramuditha&theme=tokyonight" alt="shanelkapramuditha" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelkapramuditha&theme=tokyonight" alt="Top Languages">
+</p>
+
 <!-- Status -->
 
 [![Dashboard stats of @ShanelkaPramuditha](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74038575&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74038575)
