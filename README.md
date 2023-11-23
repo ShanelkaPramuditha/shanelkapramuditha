@@ -29,13 +29,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shanelkapramuditha&theme=dark&show_icons=true&&count_private=truelocale=en" alt="shanelkapramuditha" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shanelkapramuditha&theme=dark" alt="shanelkapramuditha" /></p>
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanelkapramuditha&theme=darkhub" alt="shanelkapramuditha" /></a> </p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelkapramuditha&theme=tokyonight" alt="Top Languages">
 </p>
-
 <!-- Status -->
 
 [![Dashboard stats of @ShanelkaPramuditha](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74038575&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74038575)
