@@ -21,8 +21,8 @@
 - 🌱 I’m currently learning **python**, **js**, **c**, **c++**, **php**, and blah blah blah...
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/shanelkapramuditha?tab=repositories)
 - 💬 Ask me about **💻**
-- 📫 How to reach me [www.shanelka.com](https://www.shanelka.com) & [Send an email](mailto:contact@shanelka.com)
-
+- 📫 How to reach me,
+  - [Website](https://www.shanelka.com) or [send an email](mailto:contact@shanelka.com)
 - ⚡ Fact **I hate programming... 👽👽👽**
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -43,7 +43,6 @@
 [![Dashboard stats of @ShanelkaPramuditha](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74038575&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74038575)
 
 [![Contribution Time Distribution of @ShanelkaPramuditha](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=74038575&period=all_times&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=74038575&period=all_times)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
