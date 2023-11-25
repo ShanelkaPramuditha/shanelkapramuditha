@@ -7,7 +7,7 @@
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=170&vCenter=true&lines=I'm+Shanelka;From+Sri+Lanka" > </h1>
-
+<img src="./flag.gif" >
 <p align="center">
 <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/flag.gif" >
 <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/sri-lanka.webp" width="150px" height="165px">
