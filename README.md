@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/profile_name.svg" alt="SHANELKA PRAMUDITHA" /> </h1>
+<h1 align="center"> <img src="./assets/profile_name.svg" alt="SHANELKA PRAMUDITHA" /> </h1>
 
 <h2 align="center"> Hey! <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="60px" height="60px"> </h1>
 
@@ -9,12 +9,12 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=170&vCenter=true&lines=I'm+Shanelka;From+Sri+Lanka" > </h1>
 
 <p align="center">
-<img src="./flag.gif" >
-<img src="./sri-lanka.webp" width="150px" height="165px">
-<img src="./flag.gif" >
+<img src="./assets/flag.gif" >
+<img src="./assets/sri-lanka.webp" width="150px" height="165px">
+<img src="./assets/flag.gif" >
 </p>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShanelkaPramuditha/shanelkapramuditha/main/line_1.svg"/> </h1>
+<h1 align="center"> <img src="./assets/line_1.svg"/> </h1>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=shanelkapramuditha" alt="shanelkapramuditha" /> </p>
 
