@@ -53,4 +53,3 @@
 
 [![Dashboard stats of @ShanelkaPramuditha](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74038575&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74038575)
 
-[![Contribution Time Distribution of @ShanelkaPramuditha](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=74038575&period=all_times&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=74038575&period=all_times)
