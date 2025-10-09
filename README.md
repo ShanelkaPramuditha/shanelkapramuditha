@@ -47,7 +47,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shanelkapramuditha&theme=dark&show_icons=true&&count_private=truelocale=en" alt="shanelkapramuditha" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shanelkapramuditha&theme=dark" alt="shanelkapramuditha" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shanelkapramuditha&theme=dark" alt="shanelkapramuditha" /></p> -->
 <!-- Status -->
 
 [![Dashboard stats of @ShanelkaPramuditha](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74038575&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74038575)
